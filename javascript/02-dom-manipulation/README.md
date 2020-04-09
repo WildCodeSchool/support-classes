@@ -11,7 +11,5 @@ Created by [eveningkid](https://github.com/eveningkid) on 09/04/20.
 
 ## Second hour
 
-Garder le code mais générer la liste à partir de createElement et d'une liste
-
 - Second exercise: [FR](https://codepen.io/eveningkid/pen/vYNYJmv) - [EN](https://codepen.io/eveningkid/pen/wvKvqpa)
 - [Second exercise solution](https://codepen.io/eveningkid/pen/oNjNebd)
